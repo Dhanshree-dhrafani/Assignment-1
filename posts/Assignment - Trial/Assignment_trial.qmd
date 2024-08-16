@@ -2,5 +2,8 @@
 title: "My story title"
 author: "Dhanshree Dhrafani"
 format: html
+project:
+  type: website
+  output-dir: docs
 ---
 
